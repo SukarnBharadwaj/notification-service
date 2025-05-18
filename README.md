@@ -39,7 +39,7 @@ No message queue (like Redis, RabbitMQ, or Kafka) is used — notifications are 
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/your-username/notification-service.git](https://github.com/your-username/notification-service.git)
+git clone [https://github.com/SukarnBharadwaj/notification-service)
 cd notification-service
 
 # 2. Install dependencies
