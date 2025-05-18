@@ -85,13 +85,13 @@ Here are examples of how to interact with the notification service API:
 
 **Request Body (JSON):**
 
-````json
+```json
 {
   "userId": "test@example.com",
   "type": "email",
   "message": "Hello and welcome to our service!"
 }
-
+```
 #### Response
 
 ```json
