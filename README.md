@@ -44,6 +44,9 @@ cd notification-service
 
 # 2. Install dependencies
 npm install
+
+# 3. initialize server
+npm run dev
 ```
 
 ## API Endpoints
